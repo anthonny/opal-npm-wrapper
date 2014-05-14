@@ -1,5 +1,5 @@
 {
-  "name": "opal-npm",
+  "name": "opal-npm-wrapper",
   "version": "0.0.0",
   "description": "Npm wrapper for opal",
   "main": "index.js",
