@@ -1,7 +1,8 @@
 ## opal-npm-wrapper
 =========================
+
 A wrapper to use [Opal](https://github.com/opal/opal-cdn) with NPM
-Opal current version : **0.6.2**
+Opal current version : **0.6.3**
 
 ### Installation
 ```
