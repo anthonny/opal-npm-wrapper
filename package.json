@@ -1,6 +1,6 @@
 {
   "name": "opal-npm-wrapper",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "homepage": "https://github.com/anthonny/opal-npm-wrapper",
   "keywords": ["opal", "npm"],
   "author": "Anthonny Quérouil <anthonny.querouil@gmail.com>",
