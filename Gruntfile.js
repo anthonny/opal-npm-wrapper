@@ -26,7 +26,7 @@ module.exports = function(grunt){
       },
       dist: {
         files: {
-          'index.js': ['bower_components/opal/opal/0.6.3/opal.js']
+          'index.js': ['bower_components/opal/opal/0.7.0/opal.js']
         }
       }
     },

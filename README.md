@@ -2,7 +2,7 @@
 =========================
 
 A wrapper to use [Opal](https://github.com/opal/opal-cdn) with NPM
-Opal current version : **0.6.3**
+Opal current version : **0.7.0**
 
 ### Installation
 ```
