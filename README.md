@@ -1,5 +1,5 @@
 ## opal-npm-wrapper
-=========================
+[![Build Status](https://travis-ci.org/anthonny/opal-npm-wrapper.svg)](https://travis-ci.org/anthonny/opal-npm-wrapper)
 
 A wrapper to use [Opal](https://github.com/opal/opal-cdn) with NPM
 Opal current version : **0.7.1**
