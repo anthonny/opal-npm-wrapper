@@ -1,4 +1,4 @@
-var Opal = this.Opal = {};
+var Opal = this.Opal = undefined;
 
 (function(undefined) {
   if (typeof(this.Opal) !== 'undefined') {
@@ -7,7 +7,7 @@ var Opal = this.Opal = {};
   }
 
   // The Opal object that is exposed globally
-  //var Opal = this.Opal = {};
+  Opal = this.Opal = {};
 
   // All bridged classes - keep track to donate methods from Object
   var bridged_classes = Opal.bridged_classes = [];
