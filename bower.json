@@ -13,6 +13,6 @@
     "tests"
   ],
   "devDependencies": {
-    "opal": "#8af2db4d5322dc1f498696465f2af99048850bd3"
+    "opal": "0.8.0"
   }
 }
