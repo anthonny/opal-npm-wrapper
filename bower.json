@@ -13,6 +13,6 @@
     "tests"
   ],
   "devDependencies": {
-    "opal": "0.8.0"
+    "opal": "0.9.0.beta2"
   }
 }
