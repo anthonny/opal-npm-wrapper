@@ -7,4 +7,9 @@ describe("Opal", function() {
          opal.uid().should.be.a('number');
        });
    });
+   describe(".alias()", function() {
+       it("should have an alias", function(){
+         opal.alias.should.be.a('function');
+       });
+   });
 });
