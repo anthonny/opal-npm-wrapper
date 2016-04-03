@@ -22,6 +22,11 @@ module.exports = function(grunt){
         replacements: [{
           pattern: /var\ (Opal\ =)/ig,
           replacement: '$1'
+        },
+        // quick fix to prevent process.stdxxx when we are in browser
+        {
+          pattern: /typeof\(process\) === 'object'/ig,
+          replacement: "typeof(process) === 'object' && !process.browser"
         }]
       },
       dist: {
